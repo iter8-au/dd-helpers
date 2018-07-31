@@ -1,0 +1,26 @@
+{
+    "name": "iter8/dd-helpers",
+    "description": "Various dump and debug helpers",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Barrett",
+            "email": "dan@iter8.com.au"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {
+        "php": "^7.1",
+        "symfony/var-dumper": "^4.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
