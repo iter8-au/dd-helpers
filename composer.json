@@ -17,7 +17,7 @@
     },
     "require": {
         "php": "^7.1",
-        "symfony/var-dumper": "^4.0"
+        "symfony/var-dumper": "^4.1"
     },
     "config": {
         "sort-packages": true
